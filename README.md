@@ -1,16 +1,10 @@
-=========
-CHECKLIST
-=========
+========= CHECKLIST =========
 
-==========
-L'OBJECTIF
-==========
+========== L'OBJECTIF ==========
 
 Réaliser un Souls-like en 2D sur Unity
 
-=====================
-CE QUI A ETE REALISER
-=====================
+===================== CE QUI A ETE REALISER =====================
 
 Un personnage qui :
   - Se déplace de gauche à droite ☑️
@@ -44,9 +38,7 @@ Un menu pause basique avec :
 
 Une caméra avec un effets ☑️
 
-==============================
-CE QUI EST PREVU POUR LA SUITE
-==============================
+============================== CE QUI EST PREVU POUR LA SUITE ==============================
 
 - Un système de level up et de personnalisation des stats du personnage
 - Un ou plusieurs marchands proposant différents items
