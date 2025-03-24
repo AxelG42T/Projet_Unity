@@ -16,6 +16,8 @@ Un personnage qui :
   - Peut utiliser un checkpoint lorsqu'il est à proximité qui lui permet de récupérer sa vie et de récupérer des objets de soin ☑️
   - A une animation d'idle, de mort, d'attaque, de saut et de roulade ☑️
   - Lorsqu'il meurt un écran de mort se déclenche et le fait respawn au dernier checkpoint utilisé automatiquement ☑️
+  - Possède une barre de vie ☑️
+  - Possède une barre d'endurance qui se régénère après un temps ☑️ 
 
 Une map basique avec :
   - Un background ☑️
@@ -24,6 +26,7 @@ Une map basique avec :
 Un ennemi qui :
   - Perd de la vie et déclenche une animation de mort ☑️
   - Lorsqu'il est attaqué déclenche une animation de hit ☑️
+  - Possède une barre de vie ☑️
 
 Un menu basique avec :
   - Un bouton pour jouer, aller dans les paramètres et quitter ☑️
