@@ -4,7 +4,7 @@
 
 Réaliser un Souls-like en 2D sur Unity
 
-============================================ CE QUI A ETE REALISER ============================================
+================================= CE QUI A ETE REALISER =================================
 
 Un personnage qui :
   - Se déplace de gauche à droite ☑️
