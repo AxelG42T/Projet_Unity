@@ -41,7 +41,7 @@ Un menu pause basique avec :
 
 Une caméra avec un effets ☑️
 
-============================== CE QUI EST PREVU POUR LA SUITE ==============================
+========================= CE QUI EST PREVU POUR LA SUITE =========================
 
 - Un système de level up et de personnalisation des stats du personnage
 - Un ou plusieurs marchands proposant différents items
