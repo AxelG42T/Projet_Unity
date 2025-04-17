@@ -19,10 +19,6 @@ Un personnage qui :
   - Possède une barre de vie ☑️
   - Possède une barre d'endurance qui se régénère après un temps ☑️ 
 
-Une map basique avec :
-  - Un background ☑️
-  - Une tilemap ☑️
-
 Un ennemi qui :
   - Perd de la vie et déclenche une animation de mort ☑️
   - Lorsqu'il est attaqué déclenche une animation de hit ☑️
@@ -53,3 +49,5 @@ Une caméra avec un effets ☑️
 - Un système de sauvegarde
 - Un système de voyage rapide entre les checkpoints découvert
 - Un système de magie et de sort
+- une tilemap
+- un background de niiveau
